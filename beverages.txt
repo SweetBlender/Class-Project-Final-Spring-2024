@@ -1,0 +1,10 @@
+Water
+1.00
+Coke
+1.25
+Coffee
+1.50
+Fruit Punch
+1.75
+Energy Drink
+1.25

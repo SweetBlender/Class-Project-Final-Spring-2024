@@ -1,0 +1,10 @@
+Bottle of Soap
+1.25
+Hand Sanitizer
+1.00
+Shaving Cream
+3.75
+Duster
+7.50
+Pack of Trash Bags
+15.00

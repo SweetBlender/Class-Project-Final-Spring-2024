@@ -1,0 +1,10 @@
+Hotdog
+1.00
+Sandwich
+1.50
+Donut
+1.25
+Fried Chicken
+2.50
+Instant Noodles
+1.00

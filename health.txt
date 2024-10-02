@@ -1,0 +1,10 @@
+Band-aids
+1.00
+Cough Drops
+1.25
+Eye Drops
+1.50
+Moisturizing Lotion
+1.75
+Flu Medicine
+1.25
